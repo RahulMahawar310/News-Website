@@ -1,7 +1,7 @@
 {
   "name": "package.json",
   "homepage": "https://RahulMahawar310.github.io/News-Website",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
