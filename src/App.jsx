@@ -1,6 +1,6 @@
 // import logo from './logo.svg'
-import './App.css'
 import './index.css'
+import './App.css'
 import Newsapp from './Components/Newsapp'
 
 function App() {
