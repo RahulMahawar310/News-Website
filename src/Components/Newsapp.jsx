@@ -34,9 +34,9 @@ const Newsapp = () => {
           <h1>Trendy News</h1>
         </div>
         <ul>
-
+{/* 
           <a>All News</a>
-           <a>Trending</a>
+           <a>Trending</a> */}
 
         </ul>
         <div className='searchBar'>
